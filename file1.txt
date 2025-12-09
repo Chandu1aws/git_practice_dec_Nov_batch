@@ -3,3 +3,4 @@ line2in remote main
 line1 in remote dev
 line2 in remote dev
 line3 from local dev
+line4 from local dev
